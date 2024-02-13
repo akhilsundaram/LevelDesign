@@ -19,7 +19,9 @@
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/Fonts/TeenyTinyPixls-o2zo_Font.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/HUD_Text_Box_Green.uasset"
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/HUD_Text_Box_Green.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Collectables/BP_HealthPack.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Collectables/BP_Collectable.uasset"
 			]
 		}
 	]
