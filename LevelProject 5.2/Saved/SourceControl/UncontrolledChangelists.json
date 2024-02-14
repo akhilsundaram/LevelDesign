@@ -7,14 +7,8 @@
 			"files": [
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/BlockGame/Maps/AkhilLevel.umap",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/BP_PlayerController.uasset",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/BP_PlayerWidget.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/PlayerHUD/BP_PlayerWidget.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/PlayerHUD/score.uasset",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/PlayerHUD/TeenyTinyPixls-o2zo.uasset",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/PlayerHUD/TeenyTinyPixls-o2zo_Font.uasset",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/TeenyTinyPixls-o2zo_Font.uasset",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/TeenyTinyPixls-o2zo.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/Fonts/TeenyTinyPixls-o2zo.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/Fonts/TeenyTinyPixls-o2zo_Font.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset",
@@ -24,7 +18,21 @@
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Collectables/BP_Collectable.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/EnemyAI/BP_Pursuer.uasset",
 				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/EnemyAI/BP_Pursuer_AIController.uasset",
-				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/EnemyAI/AIBehaviour.uasset"
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/EnemyAI/AIBehaviour.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Maps/AkhilLevel.umap",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Objects/House.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Objects/Gate.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Objects/Stairs.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Objects/Tree.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Objects/wall.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Objects/final_ramp.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/Collectables/WinningShard.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/BP_PlayerWidget.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/PlayerHUD/TeenyTinyPixls-o2zo.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/PlayerHUD/TeenyTinyPixls-o2zo_Font.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/TeenyTinyPixls-o2zo_Font.uasset",
+				"C:/Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/TeenyTinyPixls-o2zo.uasset"
 			]
 		}
 	]
