@@ -7090,3 +7090,1275 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.23-06.03.07:400][967]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/AkhilLevel_Auto557805FB4429F8A59ED400D9EC90BDA13.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/Autosaves/Game/LearningKit_Games/Maps/AkhilLevel_Auto5.umap'
 [2024.02.23-06.03.07:405][967]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/AkhilLevel' took 0.165
 [2024.02.23-06.03.07:405][967]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.165
+[2024.02.23-06.14.05:442][852]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.14.05:442][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.14.06:984][940]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.14.06:984][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.14.07:012][940]LogViewport: Scene viewport resized to 1670x691, mode Windowed.
+[2024.02.23-06.14.07:065][941]LogViewport: Scene viewport resized to 1670x681, mode Windowed.
+[2024.02.23-06.14.07:107][942]LogViewport: Scene viewport resized to 1670x673, mode Windowed.
+[2024.02.23-06.14.08:102][  4]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.14.08:103][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.14.08:158][  4]LogViewport: Scene viewport resized to 1670x681, mode Windowed.
+[2024.02.23-06.14.08:203][  5]LogViewport: Scene viewport resized to 1670x673, mode Windowed.
+[2024.02.23-06.14.14:129][520]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.14.14:129][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.14.14:143][520]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.14.14:144][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.18.03:986][483]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.23-06.20.12:682][456]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.20.12:847][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.02.23-06.20.12:887][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.20.12:942][456]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.20.12:943][456]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidgetFEB0A5F54951B602F0DC82892F4A3466.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.20.12:951][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 4.51 sec)
+[2024.02.23-06.20.12:967][456]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.20.12:967][456]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.22.13:301][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.23-06.22.13:305][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/AkhilLevel' took 0.036
+[2024.02.23-06.22.13:305][730]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget] ([2] browsable assets)...
+[2024.02.23-06.22.13:310][730]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget]
+[2024.02.23-06.22.13:310][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget]
+[2024.02.23-06.22.13:330][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget_Auto6
+[2024.02.23-06.22.13:330][730]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget_Auto68502DD9548F92BCCDD798EBF9A2680C1.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget_Auto6.uasset'
+[2024.02.23-06.22.13:331][730]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.02.23-06.27.43:464][949]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.02.23-06.29.12:411][849]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.02.23-06.29.15:580][ 18]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.02.23-06.29.50:046][ 56]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.23-06.31.39:761][727]LogDerivedDataCache: C:/Users/akhils7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.397 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8354 files in 10818 folders with total size 755 MiB.
+[2024.02.23-06.31.58:930][942]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.31.59:008][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.23-06.31.59:053][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.31.59:109][942]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.31.59:110][942]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidgetA20AA7324355188A1314CCA63383C176.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.31.59:118][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.58 sec)
+[2024.02.23-06.31.59:128][942]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.31.59:129][942]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.32.22:177][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.32.22:177][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.32.22:178][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.32.22:179][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.32.26:413][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.23-06.32.26:543][979]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Maps/AkhilLevel_Auto7
+[2024.02.23-06.32.26:544][979]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/AkhilLevel_Auto7BA70DC264D34630D78F70C9DCE514AF5.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/Autosaves/Game/LearningKit_Games/Maps/AkhilLevel_Auto7.umap'
+[2024.02.23-06.32.26:549][979]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/AkhilLevel' took 0.168
+[2024.02.23-06.32.26:549][979]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.168
+[2024.02.23-06.32.26:549][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance_Inst_gold] ([1] browsable assets)...
+[2024.02.23-06.32.26:549][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance_Inst_gold]
+[2024.02.23-06.32.26:554][979]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance_Inst_gold_Auto7
+[2024.02.23-06.32.26:554][979]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/MI_Opaque_BaseInstance_Inst_gold4CE09AAD47064329E8F50BBF5036CA7C.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/Autosaves/Game/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance_Inst_gold_Auto7.uasset'
+[2024.02.23-06.32.26:555][979]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.02.23-06.33.14:697][215]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.23-06.33.14:895][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.23-06.33.15:052][215]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.33.15:054][215]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.BP_Ricky_C_0.CharacterMesh0'
+[2024.02.23-06.33.15:098][215]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.33.15:100][215]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.BP_Ricky_C_0.CharacterMesh0'
+[2024.02.23-06.33.15:107][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.33.15:265][215]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.23-06.33.15:266][215]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/BP_LearningKit_PlayerCharacter2D5A126A4F14BDF0480759AC4D2BC032.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.23-06.33.15:275][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 4.75 sec)
+[2024.02.23-06.33.15:288][215]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.23-06.33.15:288][215]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.23-06.33.17:253][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.33.17:266][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.33.17:266][334]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:33:17 PM)
+[2024.02.23-06.33.17:303][334]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.33.17:352][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049502s)
+[2024.02.23-06.33.17:352][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.049557s)
+[2024.02.23-06.33.17:352][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.33.17:352][334]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.33.17:353][334]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.33.17:353][334]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2024.02.23-06.33.17:386][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.23-06.33.17:390][334]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.02.23-06.33.17:390][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.33.17:390][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.33.17:390][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.33.17:390][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.33.17:390][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.33.17:390][334]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.33.17:390][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.33.17:390][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.33.17:390][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.33.17:391][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.33.17:391][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.33.17:393][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.33.17:488][334]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.33.17:489][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.33.17:489][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.33.17:489][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.33.17:490][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.02.23-06.33.17:490][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.02.23-06.33.17:492][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.02.23-06.33.17:492][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.02.23-06.33.17:492][334]LogInit: FAudioDevice initialized with ID 37.
+[2024.02.23-06.33.17:492][334]LogAudio: Display: Audio Device (ID: 37) registered with world 'AkhilLevel'.
+[2024.02.23-06.33.17:492][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.02.23-06.33.17:495][334]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.33.17:513][334]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.33.17:514][334]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.33.17
+[2024.02.23-06.33.17:515][334]LogWorld: Bringing up level for play took: 0.018761
+[2024.02.23-06.33.17:518][334]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.02.23-06.33.17:523][334]PIE: Server logged in
+[2024.02.23-06.33.17:524][334]PIE: Play in editor total start time 0.259 seconds.
+[2024.02.23-06.33.17:540][334]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.17:540][334]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.17:541][334]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.17:542][334]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.20:749][615]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.33.20:750][615]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.33.31:670][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:670][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:671][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:671][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:672][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:673][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:673][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:674][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:674][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:675][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:675][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:676][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:677][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:677][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:678][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:678][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:679][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.31:679][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:469][194]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.23-06.33.35:469][194]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.23-06.33.35:471][194]LogNet: Browse: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-06.33.35:471][194]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-06.33.35:471][194]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.33.35:471][194]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.02.23-06.33.35:473][194]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.33.35:475][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.33.35:540][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.33.35:551][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.23-06.33.35:555][194]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.33.35:603][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048784s)
+[2024.02.23-06.33.35:603][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.048841s)
+[2024.02.23-06.33.35:603][194]LogAudio: Display: Audio Device (ID: 37) registered with world 'AkhilLevel'.
+[2024.02.23-06.33.35:603][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.33.35:603][194]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.33.35:605][194]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.33.35:605][194]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2024.02.23-06.33.35:605][194]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.33.35:614][194]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.33.35:619][194]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.33.35
+[2024.02.23-06.33.35:620][194]LogWorld: Bringing up level for play took: 0.014936
+[2024.02.23-06.33.35:626][194]LogLoad: Took 0.154532 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel)
+[2024.02.23-06.33.35:639][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:639][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:640][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:640][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:641][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:641][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:642][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:643][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:643][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:644][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:645][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:645][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:646][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:646][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:647][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:647][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:648][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.35:649][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.33.38:224][425]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.33.38:224][425]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.23-06.33.46:884][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.33.46:884][298]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.33.46:885][298]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.33.46:887][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.33.46:894][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.33.46:901][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.33.46:934][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.33.46:934][298]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.02.23-06.33.46:934][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.02.23-06.33.46:936][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.02.23-06.33.46:943][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.33.46:952][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.23-06.33.46:983][299]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.02.23-06.34.45:328][102]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.34.45:522][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.23-06.34.45:566][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.34.45:629][102]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.34.45:630][102]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget3297B1FA482705B0316F31A46040E563.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.34.45:638][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 4.82 sec)
+[2024.02.23-06.34.45:647][102]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.34.45:647][102]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.34.53:221][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.34.53:231][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.34.53:231][999]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:34:53 PM)
+[2024.02.23-06.34.53:231][999]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.34.53:283][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051322s)
+[2024.02.23-06.34.53:283][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.051369s)
+[2024.02.23-06.34.53:283][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.34.53:284][999]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.34.53:284][999]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.34.53:285][999]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2024.02.23-06.34.53:318][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.23-06.34.53:322][999]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.02.23-06.34.53:322][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.34.53:322][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.34.53:322][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.34.53:322][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.34.53:322][999]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.34.53:322][999]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.34.53:322][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.34.53:322][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.34.53:322][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.34.53:322][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.34.53:322][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.34.53:325][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.34.53:416][999]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.34.53:417][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.34.53:417][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.34.53:417][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.34.53:417][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.02.23-06.34.53:417][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.02.23-06.34.53:420][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.02.23-06.34.53:420][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.02.23-06.34.53:420][999]LogInit: FAudioDevice initialized with ID 38.
+[2024.02.23-06.34.53:420][999]LogAudio: Display: Audio Device (ID: 38) registered with world 'AkhilLevel'.
+[2024.02.23-06.34.53:420][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.02.23-06.34.53:444][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.34.53:444][999]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.34.53:464][999]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.34.53:464][999]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.34.53
+[2024.02.23-06.34.53:466][999]LogWorld: Bringing up level for play took: 0.020255
+[2024.02.23-06.34.53:468][999]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2024.02.23-06.34.53:475][999]PIE: Server logged in
+[2024.02.23-06.34.53:476][999]PIE: Play in editor total start time 0.245 seconds.
+[2024.02.23-06.34.53:486][999]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.02.23-06.34.58:554][298]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.34.58:554][298]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.35.00:966][477]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.23-06.35.00:966][477]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.23-06.35.00:967][477]LogNet: Browse: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-06.35.00:968][477]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-06.35.00:968][477]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.35.00:968][477]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.02.23-06.35.00:969][477]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.35.00:970][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.35.01:024][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.35.01:035][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.23-06.35.01:038][477]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.35.01:087][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048565s)
+[2024.02.23-06.35.01:087][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.048629s)
+[2024.02.23-06.35.01:087][477]LogAudio: Display: Audio Device (ID: 38) registered with world 'AkhilLevel'.
+[2024.02.23-06.35.01:087][477]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.35.01:087][477]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.35.01:087][477]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.35.01:088][477]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2024.02.23-06.35.01:088][477]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.35.01:097][477]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.35.01:102][477]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.35.01
+[2024.02.23-06.35.01:103][477]LogWorld: Bringing up level for play took: 0.015232
+[2024.02.23-06.35.01:109][477]LogLoad: Took 0.140753 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel)
+[2024.02.23-06.35.02:913][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.35.02:913][582]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.35.02:914][582]LogSlate: Window 'LevelProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2024.02.23-06.35.02:920][582]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.35.02:921][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.35.02:927][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.35.02:934][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.35.02:967][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.35.02:967][582]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.02.23-06.35.02:967][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.02.23-06.35.02:969][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.02.23-06.35.02:985][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.23-06.35.03:015][583]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2024.02.23-06.35.25:582][793]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.35.25:635][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.23-06.35.25:721][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.35.25:787][793]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.35.25:788][793]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget0884F1E448B8C63E30CB19BEEAD7EB42.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.35.25:795][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.89 sec)
+[2024.02.23-06.35.25:805][793]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.35.25:805][793]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.35.26:147][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:148][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:148][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:149][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:149][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:150][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:150][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:151][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:151][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:151][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:153][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:153][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:154][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:154][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:155][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:155][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:156][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:156][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:161][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.26:966][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.35.26:978][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.35.26:978][857]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:35:26 PM)
+[2024.02.23-06.35.26:978][857]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.35.27:027][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049149s)
+[2024.02.23-06.35.27:027][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.049195s)
+[2024.02.23-06.35.27:027][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.35.27:027][857]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.35.27:027][857]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.35.27:028][857]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2024.02.23-06.35.27:060][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.23-06.35.27:064][857]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.02.23-06.35.27:064][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.35.27:064][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.35.27:064][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.35.27:064][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.35.27:065][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.35.27:065][857]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.35.27:065][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.35.27:065][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.35.27:065][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.35.27:065][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.35.27:065][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.35.27:068][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.35.27:159][857]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.35.27:160][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.35.27:160][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.35.27:160][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.35.27:160][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.02.23-06.35.27:160][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.02.23-06.35.27:163][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.02.23-06.35.27:163][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.02.23-06.35.27:163][857]LogInit: FAudioDevice initialized with ID 39.
+[2024.02.23-06.35.27:163][857]LogAudio: Display: Audio Device (ID: 39) registered with world 'AkhilLevel'.
+[2024.02.23-06.35.27:163][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.02.23-06.35.27:166][857]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.35.27:183][857]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.35.27:183][857]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.35.27
+[2024.02.23-06.35.27:184][857]LogWorld: Bringing up level for play took: 0.018322
+[2024.02.23-06.35.27:187][857]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2024.02.23-06.35.27:193][857]PIE: Server logged in
+[2024.02.23-06.35.27:194][857]PIE: Play in editor total start time 0.216 seconds.
+[2024.02.23-06.35.27:221][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:221][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:222][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:222][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:223][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:224][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:224][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:225][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:225][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:226][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:226][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:227][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:227][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:228][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:228][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:229][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:229][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:230][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.27:236][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.28:253][936]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.28:764][987]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.35.28:764][987]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.35.29:256][ 38]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.29:257][ 38]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:544][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.35.30:544][166]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.35.30:544][166]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.35.30:546][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.35.30:553][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.35.30:560][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.35.30:594][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.35.30:596][166]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.02.23-06.35.30:596][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.02.23-06.35.30:598][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.02.23-06.35.30:604][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.35.30:613][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.23-06.35.30:637][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:637][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:638][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:638][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:639][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:639][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:640][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:640][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:640][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:641][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:641][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:642][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:642][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:642][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:643][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:643][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:644][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:650][166]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.30:660][167]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2024.02.23-06.35.35:273][561]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.35.35:327][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.23-06.35.35:414][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.35.35:475][561]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.35.35:475][561]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget433DC0FE472C7370835064924422F09F.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.35.35:482][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 4.96 sec)
+[2024.02.23-06.35.35:510][561]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.35.35:510][561]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.35.36:353][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:353][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:354][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:354][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:355][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:355][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:355][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:356][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:356][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:357][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:357][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:358][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:358][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:359][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:359][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:360][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:360][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:399][605]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: ================================================
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Total job queries 284, among them cache hits 75 (26.41%)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Tracking 209 distinct input hashes that result in 112 distinct outputs (53.59%)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: RAM used: 451.08 KiB of 1.60 GiB budget. Usage: 0.03%
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Shaders Compiled: 63
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Jobs assigned 63, completed 63 (100.00%)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Average time worker was idle: 121.08 s
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 2.07 s
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 1.82 s
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Job life time (pending + execution): average 1.17 s, max 2.59
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.23 s
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Total thread time: 44.739 s
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Total thread preprocess time: 2.749 s
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Percentage time preprocessing: 6.15%
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   18 times, average 0.95 sec, max 1.41 sec, min 0.80 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 0.81 sec, max 1.40 sec, min 0.64 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.31% of total time (compiled   18 times, average 0.95 sec, max 1.41 sec, min 0.80 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.94% of total time (compiled   17 times, average 0.81 sec, max 1.40 sec, min 0.64 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.56% of total time (compiled    6 times, average 0.64 sec, max 0.71 sec, min 0.57 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.32% of total time (compiled    4 times, average 0.71 sec, max 0.92 sec, min 0.55 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display:                                                  FHitProxyPS - 4.67% of total time (compiled    6 times, average 0.35 sec, max 0.41 sec, min 0.29 sec)
+[2024.02.23-06.35.36:407][606]LogShaderCompilers: Display: ================================================
+[2024.02.23-06.35.38:056][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.35.38:067][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.35.38:067][732]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:35:38 PM)
+[2024.02.23-06.35.38:102][732]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.35.38:152][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048548s)
+[2024.02.23-06.35.38:152][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.048601s)
+[2024.02.23-06.35.38:152][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.35.38:152][732]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.35.38:152][732]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.35.38:153][732]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2024.02.23-06.35.38:184][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.02.23-06.35.38:190][732]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.02.23-06.35.38:190][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.35.38:190][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.35.38:190][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.35.38:190][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.35.38:190][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.35.38:190][732]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.35.38:190][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.35.38:190][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.35.38:190][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.35.38:190][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.35.38:190][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.35.38:192][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.35.38:283][732]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.35.38:283][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.35.38:283][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.35.38:283][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.35.38:284][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.02.23-06.35.38:284][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.02.23-06.35.38:286][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.02.23-06.35.38:286][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.02.23-06.35.38:287][732]LogInit: FAudioDevice initialized with ID 40.
+[2024.02.23-06.35.38:287][732]LogAudio: Display: Audio Device (ID: 40) registered with world 'AkhilLevel'.
+[2024.02.23-06.35.38:287][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.02.23-06.35.38:290][732]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.35.38:307][732]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.35.38:307][732]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.35.38
+[2024.02.23-06.35.38:308][732]LogWorld: Bringing up level for play took: 0.018426
+[2024.02.23-06.35.38:311][732]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2024.02.23-06.35.38:317][732]PIE: Server logged in
+[2024.02.23-06.35.38:318][732]PIE: Play in editor total start time 0.251 seconds.
+[2024.02.23-06.35.38:332][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:333][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:333][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:333][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:334][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:334][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:335][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:335][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:335][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:336][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:336][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:337][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:337][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:338][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:338][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:339][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:339][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.38:340][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.40:603][929]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.35.40:603][929]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.35.43:793][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.35.43:793][269]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.35.43:794][269]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.35.43:796][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.35.43:803][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.35.43:810][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.35.43:845][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.35.43:846][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.02.23-06.35.43:846][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.02.23-06.35.43:848][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.02.23-06.35.43:855][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.35.43:864][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.23-06.35.43:888][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:888][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:888][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:889][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:889][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:890][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:890][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:890][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:890][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:891][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:891][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:892][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:892][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:893][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:893][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:894][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:894][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:895][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.35.43:921][270]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2024.02.23-06.37.16:816][ 31]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.37.16:869][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.23-06.37.16:913][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.37.16:966][ 31]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.37.16:967][ 31]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidgetF404E76D482580B37BFE8AABACD9ED51.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.37.16:975][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 5.02 sec)
+[2024.02.23-06.37.16:985][ 31]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.37.16:985][ 31]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.38.03:954][581]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.38.04:018][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.23-06.38.04:072][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.38.04:135][581]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.38.04:136][581]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidgetF46CE6A44AFE4BFCF961B19E02B74B60.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.38.04:143][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 5.09 sec)
+[2024.02.23-06.38.04:153][581]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.38.04:153][581]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.40.16:510][741]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.40.16:518][741]LogBlueprint: Error: [AssetLog] C:\Users\akhils7\Documents\GitHub\LevelDesign\LevelProject 5.2\Content\LearningKit_Games\Blueprints\AkhilBlueprints\UI\RestartHUD\RestartWidget.uasset: [Compiler] This blueprint (self) is not a BP_LearningKit_PlayerCharacter_C, therefore ' Target ' must have a connection.
+[2024.02.23-06.40.16:518][741]LogBlueprint: Error: [AssetLog] C:\Users\akhils7\Documents\GitHub\LevelDesign\LevelProject 5.2\Content\LearningKit_Games\Blueprints\AkhilBlueprints\UI\RestartHUD\RestartWidget.uasset: [Compiler] This blueprint (self) is not a BP_LearningKit_PlayerCharacter_C, therefore ' Target ' must have a connection.
+[2024.02.23-06.40.16:519][741]LogBlueprint: Error: [AssetLog] C:\Users\akhils7\Documents\GitHub\LevelDesign\LevelProject 5.2\Content\LearningKit_Games\Blueprints\AkhilBlueprints\UI\RestartHUD\RestartWidget.uasset: [Compiler] Variable node  Get isWin  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.02.23-06.40.16:519][741]LogBlueprint: Error: [AssetLog] C:\Users\akhils7\Documents\GitHub\LevelDesign\LevelProject 5.2\Content\LearningKit_Games\Blueprints\AkhilBlueprints\UI\RestartHUD\RestartWidget.uasset: [Compiler] Variable node  Get PlayerScore  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.02.23-06.40.16:579][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.23-06.40.16:627][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.40.16:689][741]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.40.16:690][741]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidgetD7B14148429D1E4CD1205F91960C8C2E.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.40.16:697][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 5.17 sec)
+[2024.02.23-06.40.16:707][741]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.40.16:707][741]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.40.46:054][ 84]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.40.46:124][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.23-06.40.46:172][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.40.46:235][ 84]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.40.46:235][ 84]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget51307EC74D6915205661B485543A219F.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.40.46:244][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 5.24 sec)
+[2024.02.23-06.40.46:254][ 84]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.40.46:254][ 84]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.40.51:940][735]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.40.52:008][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.23-06.40.52:054][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.40.52:112][735]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.40.52:113][735]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget5B900B474802AE86D21B908FDF2376D6.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.40.52:123][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 5.31 sec)
+[2024.02.23-06.40.52:131][735]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.40.52:131][735]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.40.55:060][ 16]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.40.55:072][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.40.55:072][ 16]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:40:55 PM)
+[2024.02.23-06.40.55:073][ 16]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.40.55:122][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048997s)
+[2024.02.23-06.40.55:122][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.049056s)
+[2024.02.23-06.40.55:122][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.40.55:122][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.40.55:123][ 16]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.40.55:123][ 16]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2024.02.23-06.40.55:153][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.23-06.40.55:157][ 16]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.02.23-06.40.55:157][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.40.55:157][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.40.55:157][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.40.55:157][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.40.55:157][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.40.55:157][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.40.55:157][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.40.55:157][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.40.55:158][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.40.55:158][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.40.55:158][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.40.55:160][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.40.55:260][ 16]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.40.55:260][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.40.55:260][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.40.55:260][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.40.55:261][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.02.23-06.40.55:261][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.02.23-06.40.55:264][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.02.23-06.40.55:264][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.02.23-06.40.55:264][ 16]LogInit: FAudioDevice initialized with ID 41.
+[2024.02.23-06.40.55:264][ 16]LogAudio: Display: Audio Device (ID: 41) registered with world 'AkhilLevel'.
+[2024.02.23-06.40.55:264][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.02.23-06.40.55:267][ 16]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.40.55:285][ 16]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.40.55:285][ 16]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.40.55
+[2024.02.23-06.40.55:287][ 16]LogWorld: Bringing up level for play took: 0.018861
+[2024.02.23-06.40.55:290][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2024.02.23-06.40.55:296][ 16]PIE: Server logged in
+[2024.02.23-06.40.55:297][ 16]PIE: Play in editor total start time 0.224 seconds.
+[2024.02.23-06.40.55:329][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:330][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:330][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:331][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:331][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:332][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:332][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:333][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:334][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:334][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:335][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:335][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:336][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:337][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:338][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:338][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:339][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.55:340][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.40.57:671][221]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.40.57:671][221]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.41.00:324][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.41.00:324][486]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.41.00:324][486]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.41.00:327][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.41.00:334][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.41.00:341][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.41.00:376][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.41.00:377][486]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.02.23-06.41.00:377][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.02.23-06.41.00:379][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.02.23-06.41.00:386][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.41.00:395][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.23-06.41.00:427][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:428][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:428][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:429][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:429][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:429][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:430][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:430][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:430][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:430][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:432][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:432][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:433][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:433][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:434][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:434][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:435][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:435][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.41.00:461][487]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2024.02.23-06.41.03:849][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.41.03:860][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.41.03:860][854]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:41:03 PM)
+[2024.02.23-06.41.03:860][854]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.41.03:913][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052626s)
+[2024.02.23-06.41.03:913][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.052671s)
+[2024.02.23-06.41.03:913][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.41.03:914][854]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.41.03:914][854]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.41.03:915][854]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2024.02.23-06.41.03:945][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.23-06.41.03:948][854]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.02.23-06.41.03:948][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.41.03:948][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.41.03:948][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.41.03:948][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.41.03:948][854]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.41.03:948][854]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.41.03:948][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.41.03:948][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.41.03:949][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.41.03:949][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.41.03:949][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.41.03:952][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.41.04:047][854]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.41.04:047][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.41.04:047][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.41.04:047][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.41.04:049][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.02.23-06.41.04:049][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.02.23-06.41.04:050][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.02.23-06.41.04:050][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.02.23-06.41.04:051][854]LogInit: FAudioDevice initialized with ID 42.
+[2024.02.23-06.41.04:051][854]LogAudio: Display: Audio Device (ID: 42) registered with world 'AkhilLevel'.
+[2024.02.23-06.41.04:051][854]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.02.23-06.41.04:084][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.41.04:085][854]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.41.04:106][854]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.41.04:106][854]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.41.04
+[2024.02.23-06.41.04:107][854]LogWorld: Bringing up level for play took: 0.022075
+[2024.02.23-06.41.04:110][854]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.02.23-06.41.04:118][854]PIE: Server logged in
+[2024.02.23-06.41.04:119][854]PIE: Play in editor total start time 0.259 seconds.
+[2024.02.23-06.41.04:133][854]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.02.23-06.41.09:473][112]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.41.09:473][112]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.41.26:004][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.41.26:004][266]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.41.26:004][266]LogSlate: Window 'LevelProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2024.02.23-06.41.26:010][266]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.41.26:013][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.41.26:020][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.41.26:028][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.41.26:063][266]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.02.23-06.41.26:063][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.02.23-06.41.26:065][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.02.23-06.41.26:082][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.23-06.41.26:139][267]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.02.23-06.42.02:250][519]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.42.02:318][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.02.23-06.42.02:376][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.42.02:441][519]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.42.02:442][519]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget8663CE464E51D6C3D51CC2A58AF932D3.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.42.02:450][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 5.38 sec)
+[2024.02.23-06.42.02:467][519]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.42.02:467][519]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.42.02:806][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:807][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:807][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:808][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:808][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:809][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:809][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:810][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:810][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:810][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:812][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:812][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:813][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:814][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:814][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:815][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:815][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.02:816][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:690][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.42.03:701][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.42.03:701][591]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:42:03 PM)
+[2024.02.23-06.42.03:701][591]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.42.03:752][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049768s)
+[2024.02.23-06.42.03:752][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.049817s)
+[2024.02.23-06.42.03:752][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.42.03:752][591]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.42.03:752][591]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.42.03:753][591]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2024.02.23-06.42.03:786][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.23-06.42.03:790][591]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.02.23-06.42.03:790][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.42.03:790][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.42.03:790][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.42.03:790][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.42.03:790][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.42.03:790][591]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.42.03:790][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.42.03:790][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.42.03:791][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.42.03:791][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.42.03:791][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.42.03:793][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.42.03:885][591]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.42.03:885][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.42.03:885][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.42.03:885][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.42.03:886][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.02.23-06.42.03:886][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.02.23-06.42.03:888][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.02.23-06.42.03:888][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.02.23-06.42.03:888][591]LogInit: FAudioDevice initialized with ID 43.
+[2024.02.23-06.42.03:888][591]LogAudio: Display: Audio Device (ID: 43) registered with world 'AkhilLevel'.
+[2024.02.23-06.42.03:888][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.02.23-06.42.03:893][591]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.42.03:910][591]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.42.03:910][591]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.42.03
+[2024.02.23-06.42.03:912][591]LogWorld: Bringing up level for play took: 0.018711
+[2024.02.23-06.42.03:915][591]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2024.02.23-06.42.03:920][591]PIE: Server logged in
+[2024.02.23-06.42.03:921][591]PIE: Play in editor total start time 0.219 seconds.
+[2024.02.23-06.42.03:967][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:967][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:968][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:968][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:969][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:969][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:970][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:970][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:970][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:970][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:972][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:973][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:973][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:974][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:974][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:975][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:975][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.03:976][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.06:007][764]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.42.06:007][764]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.42.12:939][512]LogViewport: Scene viewport resized to 1670x680, mode Windowed.
+[2024.02.23-06.42.12:950][513]LogViewport: Scene viewport resized to 1670x683, mode Windowed.
+[2024.02.23-06.42.12:977][514]LogViewport: Scene viewport resized to 1670x704, mode Windowed.
+[2024.02.23-06.42.12:997][515]LogViewport: Scene viewport resized to 1670x723, mode Windowed.
+[2024.02.23-06.42.13:020][516]LogViewport: Scene viewport resized to 1670x754, mode Windowed.
+[2024.02.23-06.42.13:043][517]LogViewport: Scene viewport resized to 1670x777, mode Windowed.
+[2024.02.23-06.42.13:066][518]LogViewport: Scene viewport resized to 1670x796, mode Windowed.
+[2024.02.23-06.42.13:089][519]LogViewport: Scene viewport resized to 1670x811, mode Windowed.
+[2024.02.23-06.42.13:110][520]LogViewport: Scene viewport resized to 1670x822, mode Windowed.
+[2024.02.23-06.42.13:132][521]LogViewport: Scene viewport resized to 1670x833, mode Windowed.
+[2024.02.23-06.42.13:153][522]LogViewport: Scene viewport resized to 1670x841, mode Windowed.
+[2024.02.23-06.42.13:176][523]LogViewport: Scene viewport resized to 1670x846, mode Windowed.
+[2024.02.23-06.42.13:198][524]LogViewport: Scene viewport resized to 1670x847, mode Windowed.
+[2024.02.23-06.42.13:220][525]LogViewport: Scene viewport resized to 1670x851, mode Windowed.
+[2024.02.23-06.42.13:238][526]LogViewport: Scene viewport resized to 1670x855, mode Windowed.
+[2024.02.23-06.42.13:259][527]LogViewport: Scene viewport resized to 1670x859, mode Windowed.
+[2024.02.23-06.42.13:282][528]LogViewport: Scene viewport resized to 1670x864, mode Windowed.
+[2024.02.23-06.42.13:302][529]LogViewport: Scene viewport resized to 1670x869, mode Windowed.
+[2024.02.23-06.42.13:318][529]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 246425
+[2024.02.23-06.42.13:319][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.13:336][530]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.23-06.42.13:338][530]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.23-06.42.13:339][530]LogViewport: Scene viewport resized to 1670x877, mode Windowed.
+[2024.02.23-06.42.13:344][530]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.23-06.42.13:349][530]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.23-06.42.13:360][531]LogViewport: Scene viewport resized to 1670x879, mode Windowed.
+[2024.02.23-06.42.13:380][533]LogViewport: Scene viewport resized to 1670x881, mode Windowed.
+[2024.02.23-06.42.13:398][534]LogViewport: Scene viewport resized to 1670x884, mode Windowed.
+[2024.02.23-06.42.13:459][540]LogViewport: Scene viewport resized to 1670x885, mode Windowed.
+[2024.02.23-06.42.13:548][550]LogViewport: Scene viewport resized to 1670x888, mode Windowed.
+[2024.02.23-06.42.13:571][552]LogViewport: Scene viewport resized to 1670x890, mode Windowed.
+[2024.02.23-06.42.13:586][553]LogViewport: Scene viewport resized to 1670x893, mode Windowed.
+[2024.02.23-06.42.13:606][554]LogViewport: Scene viewport resized to 1670x896, mode Windowed.
+[2024.02.23-06.42.13:627][555]LogViewport: Scene viewport resized to 1670x897, mode Windowed.
+[2024.02.23-06.42.13:650][556]LogViewport: Scene viewport resized to 1670x899, mode Windowed.
+[2024.02.23-06.42.13:669][557]LogViewport: Scene viewport resized to 1670x900, mode Windowed.
+[2024.02.23-06.42.13:712][561]LogViewport: Scene viewport resized to 1670x902, mode Windowed.
+[2024.02.23-06.42.13:735][563]LogViewport: Scene viewport resized to 1670x904, mode Windowed.
+[2024.02.23-06.42.13:751][564]LogViewport: Scene viewport resized to 1670x906, mode Windowed.
+[2024.02.23-06.42.13:771][565]LogViewport: Scene viewport resized to 1670x912, mode Windowed.
+[2024.02.23-06.42.13:792][566]LogViewport: Scene viewport resized to 1670x924, mode Windowed.
+[2024.02.23-06.42.13:813][567]LogViewport: Scene viewport resized to 1670x928, mode Windowed.
+[2024.02.23-06.42.13:836][568]LogViewport: Scene viewport resized to 1670x929, mode Windowed.
+[2024.02.23-06.42.13:857][569]LogViewport: Scene viewport resized to 1670x931, mode Windowed.
+[2024.02.23-06.42.14:110][598]LogViewport: Scene viewport resized to 1670x928, mode Windowed.
+[2024.02.23-06.42.14:121][599]LogViewport: Scene viewport resized to 1670x921, mode Windowed.
+[2024.02.23-06.42.14:151][600]LogViewport: Scene viewport resized to 1670x914, mode Windowed.
+[2024.02.23-06.42.14:175][601]LogViewport: Scene viewport resized to 1670x907, mode Windowed.
+[2024.02.23-06.42.14:193][602]LogViewport: Scene viewport resized to 1670x898, mode Windowed.
+[2024.02.23-06.42.14:215][603]LogViewport: Scene viewport resized to 1670x892, mode Windowed.
+[2024.02.23-06.42.14:236][604]LogViewport: Scene viewport resized to 1670x884, mode Windowed.
+[2024.02.23-06.42.14:258][605]LogViewport: Scene viewport resized to 1670x871, mode Windowed.
+[2024.02.23-06.42.14:280][606]LogViewport: Scene viewport resized to 1670x856, mode Windowed.
+[2024.02.23-06.42.14:305][607]LogViewport: Scene viewport resized to 1670x844, mode Windowed.
+[2024.02.23-06.42.14:325][608]LogViewport: Scene viewport resized to 1670x828, mode Windowed.
+[2024.02.23-06.42.14:347][609]LogViewport: Scene viewport resized to 1670x806, mode Windowed.
+[2024.02.23-06.42.14:369][610]LogViewport: Scene viewport resized to 1670x790, mode Windowed.
+[2024.02.23-06.42.14:392][611]LogViewport: Scene viewport resized to 1670x783, mode Windowed.
+[2024.02.23-06.42.14:414][612]LogViewport: Scene viewport resized to 1670x778, mode Windowed.
+[2024.02.23-06.42.14:436][613]LogViewport: Scene viewport resized to 1670x767, mode Windowed.
+[2024.02.23-06.42.14:457][614]LogViewport: Scene viewport resized to 1670x755, mode Windowed.
+[2024.02.23-06.42.14:478][615]LogViewport: Scene viewport resized to 1670x748, mode Windowed.
+[2024.02.23-06.42.14:499][616]LogViewport: Scene viewport resized to 1670x739, mode Windowed.
+[2024.02.23-06.42.14:517][616]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 87
+[2024.02.23-06.42.14:518][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.14:536][617]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.23-06.42.14:537][617]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.23-06.42.14:539][617]LogViewport: Scene viewport resized to 1670x726, mode Windowed.
+[2024.02.23-06.42.14:543][617]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.23-06.42.14:547][617]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.23-06.42.14:559][618]LogViewport: Scene viewport resized to 1670x722, mode Windowed.
+[2024.02.23-06.42.14:572][619]LogViewport: Scene viewport resized to 1670x720, mode Windowed.
+[2024.02.23-06.42.14:593][620]LogViewport: Scene viewport resized to 1670x716, mode Windowed.
+[2024.02.23-06.42.14:614][621]LogViewport: Scene viewport resized to 1670x710, mode Windowed.
+[2024.02.23-06.42.14:635][622]LogViewport: Scene viewport resized to 1670x700, mode Windowed.
+[2024.02.23-06.42.14:655][623]LogViewport: Scene viewport resized to 1670x695, mode Windowed.
+[2024.02.23-06.42.14:677][624]LogViewport: Scene viewport resized to 1670x686, mode Windowed.
+[2024.02.23-06.42.14:697][625]LogViewport: Scene viewport resized to 1670x682, mode Windowed.
+[2024.02.23-06.42.14:725][627]LogViewport: Scene viewport resized to 1670x681, mode Windowed.
+[2024.02.23-06.42.14:744][628]LogViewport: Scene viewport resized to 1670x676, mode Windowed.
+[2024.02.23-06.42.14:763][629]LogViewport: Scene viewport resized to 1670x672, mode Windowed.
+[2024.02.23-06.42.14:784][630]LogViewport: Scene viewport resized to 1670x671, mode Windowed.
+[2024.02.23-06.42.14:806][631]LogViewport: Scene viewport resized to 1670x669, mode Windowed.
+[2024.02.23-06.42.14:884][639]LogViewport: Scene viewport resized to 1670x667, mode Windowed.
+[2024.02.23-06.42.14:894][640]LogViewport: Scene viewport resized to 1670x666, mode Windowed.
+[2024.02.23-06.42.14:919][641]LogViewport: Scene viewport resized to 1670x657, mode Windowed.
+[2024.02.23-06.42.14:941][642]LogViewport: Scene viewport resized to 1670x648, mode Windowed.
+[2024.02.23-06.42.14:963][643]LogViewport: Scene viewport resized to 1670x626, mode Windowed.
+[2024.02.23-06.42.14:987][644]LogViewport: Scene viewport resized to 1670x599, mode Windowed.
+[2024.02.23-06.42.15:011][645]LogViewport: Scene viewport resized to 1670x570, mode Windowed.
+[2024.02.23-06.42.15:033][646]LogViewport: Scene viewport resized to 1670x551, mode Windowed.
+[2024.02.23-06.42.15:055][647]LogViewport: Scene viewport resized to 1670x540, mode Windowed.
+[2024.02.23-06.42.15:077][648]LogViewport: Scene viewport resized to 1670x524, mode Windowed.
+[2024.02.23-06.42.15:100][649]LogViewport: Scene viewport resized to 1670x509, mode Windowed.
+[2024.02.23-06.42.15:120][650]LogViewport: Scene viewport resized to 1670x490, mode Windowed.
+[2024.02.23-06.42.15:145][651]LogViewport: Scene viewport resized to 1670x473, mode Windowed.
+[2024.02.23-06.42.15:166][652]LogViewport: Scene viewport resized to 1670x463, mode Windowed.
+[2024.02.23-06.42.15:187][653]LogViewport: Scene viewport resized to 1670x454, mode Windowed.
+[2024.02.23-06.42.15:207][654]LogViewport: Scene viewport resized to 1670x448, mode Windowed.
+[2024.02.23-06.42.15:227][655]LogViewport: Scene viewport resized to 1670x440, mode Windowed.
+[2024.02.23-06.42.15:248][656]LogViewport: Scene viewport resized to 1670x434, mode Windowed.
+[2024.02.23-06.42.15:269][657]LogViewport: Scene viewport resized to 1670x430, mode Windowed.
+[2024.02.23-06.42.15:287][658]LogViewport: Scene viewport resized to 1670x424, mode Windowed.
+[2024.02.23-06.42.15:309][659]LogViewport: Scene viewport resized to 1670x419, mode Windowed.
+[2024.02.23-06.42.15:331][660]LogViewport: Scene viewport resized to 1670x414, mode Windowed.
+[2024.02.23-06.42.15:351][661]LogViewport: Scene viewport resized to 1670x409, mode Windowed.
+[2024.02.23-06.42.15:373][662]LogViewport: Scene viewport resized to 1670x405, mode Windowed.
+[2024.02.23-06.42.15:393][663]LogViewport: Scene viewport resized to 1670x403, mode Windowed.
+[2024.02.23-06.42.15:413][664]LogViewport: Scene viewport resized to 1670x400, mode Windowed.
+[2024.02.23-06.42.15:431][665]LogViewport: Scene viewport resized to 1670x394, mode Windowed.
+[2024.02.23-06.42.15:452][666]LogViewport: Scene viewport resized to 1670x390, mode Windowed.
+[2024.02.23-06.42.15:472][667]LogViewport: Scene viewport resized to 1670x389, mode Windowed.
+[2024.02.23-06.42.15:684][691]LogViewport: Scene viewport resized to 1670x392, mode Windowed.
+[2024.02.23-06.42.15:694][692]LogViewport: Scene viewport resized to 1670x398, mode Windowed.
+[2024.02.23-06.42.15:725][693]LogViewport: Scene viewport resized to 1670x427, mode Windowed.
+[2024.02.23-06.42.15:743][694]LogViewport: Scene viewport resized to 1670x455, mode Windowed.
+[2024.02.23-06.42.15:765][695]LogViewport: Scene viewport resized to 1670x472, mode Windowed.
+[2024.02.23-06.42.15:786][696]LogViewport: Scene viewport resized to 1670x493, mode Windowed.
+[2024.02.23-06.42.15:808][697]LogViewport: Scene viewport resized to 1670x508, mode Windowed.
+[2024.02.23-06.42.15:829][698]LogViewport: Scene viewport resized to 1670x526, mode Windowed.
+[2024.02.23-06.42.15:852][699]LogViewport: Scene viewport resized to 1670x547, mode Windowed.
+[2024.02.23-06.42.15:874][700]LogViewport: Scene viewport resized to 1670x579, mode Windowed.
+[2024.02.23-06.42.15:895][701]LogViewport: Scene viewport resized to 1670x598, mode Windowed.
+[2024.02.23-06.42.15:917][702]LogViewport: Scene viewport resized to 1670x621, mode Windowed.
+[2024.02.23-06.42.15:937][703]LogViewport: Scene viewport resized to 1670x637, mode Windowed.
+[2024.02.23-06.42.15:959][704]LogViewport: Scene viewport resized to 1670x649, mode Windowed.
+[2024.02.23-06.42.15:980][705]LogViewport: Scene viewport resized to 1670x667, mode Windowed.
+[2024.02.23-06.42.16:003][706]LogViewport: Scene viewport resized to 1670x684, mode Windowed.
+[2024.02.23-06.42.16:023][707]LogViewport: Scene viewport resized to 1670x694, mode Windowed.
+[2024.02.23-06.42.16:045][708]LogViewport: Scene viewport resized to 1670x711, mode Windowed.
+[2024.02.23-06.42.16:067][709]LogViewport: Scene viewport resized to 1670x728, mode Windowed.
+[2024.02.23-06.42.16:088][710]LogViewport: Scene viewport resized to 1670x738, mode Windowed.
+[2024.02.23-06.42.16:109][711]LogViewport: Scene viewport resized to 1670x742, mode Windowed.
+[2024.02.23-06.42.16:130][712]LogViewport: Scene viewport resized to 1670x747, mode Windowed.
+[2024.02.23-06.42.16:150][713]LogViewport: Scene viewport resized to 1670x752, mode Windowed.
+[2024.02.23-06.42.16:170][714]LogViewport: Scene viewport resized to 1670x756, mode Windowed.
+[2024.02.23-06.42.16:191][715]LogViewport: Scene viewport resized to 1670x757, mode Windowed.
+[2024.02.23-06.42.16:213][716]LogViewport: Scene viewport resized to 1670x760, mode Windowed.
+[2024.02.23-06.42.16:233][717]LogViewport: Scene viewport resized to 1670x761, mode Windowed.
+[2024.02.23-06.42.16:277][721]LogViewport: Scene viewport resized to 1670x762, mode Windowed.
+[2024.02.23-06.42.16:308][724]LogViewport: Scene viewport resized to 1670x764, mode Windowed.
+[2024.02.23-06.42.17:694][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.42.17:694][849]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.42.17:694][849]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.42.17:696][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.17:707][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.42.17:713][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.17:749][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.42.17:750][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.02.23-06.42.17:750][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.02.23-06.42.17:752][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.02.23-06.42.17:759][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.42.17:768][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.23-06.42.17:793][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:794][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:794][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:794][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:795][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:795][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:796][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:796][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:796][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:797][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:797][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:798][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:798][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:798][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:799][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:799][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:800][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:800][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.17:828][850]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2024.02.23-06.42.19:281][959]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.23-06.42.24:983][573]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.42.25:035][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.23-06.42.25:081][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.42.25:148][573]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.42.25:149][573]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget0403208B4B073D5FA2FABDB6312724B9.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.42.25:157][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.46 sec)
+[2024.02.23-06.42.25:174][573]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.42.25:174][573]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.42.27:003][718]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.42.27:014][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.42.27:014][718]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:42:27 PM)
+[2024.02.23-06.42.27:014][718]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.42.27:064][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048468s)
+[2024.02.23-06.42.27:064][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.048512s)
+[2024.02.23-06.42.27:064][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.42.27:064][718]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.42.27:064][718]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.42.27:065][718]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2024.02.23-06.42.27:094][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.23-06.42.27:098][718]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.02.23-06.42.27:098][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.42.27:098][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.42.27:098][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.42.27:098][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.42.27:098][718]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.42.27:098][718]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.42.27:098][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.42.27:099][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.42.27:099][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.42.27:099][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.42.27:099][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.42.27:102][718]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.42.27:193][718]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.42.27:194][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.42.27:194][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.42.27:194][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.42.27:195][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.02.23-06.42.27:195][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.02.23-06.42.27:197][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.02.23-06.42.27:197][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.02.23-06.42.27:197][718]LogInit: FAudioDevice initialized with ID 44.
+[2024.02.23-06.42.27:197][718]LogAudio: Display: Audio Device (ID: 44) registered with world 'AkhilLevel'.
+[2024.02.23-06.42.27:197][718]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.02.23-06.42.27:200][718]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.42.27:218][718]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.42.27:218][718]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.42.27
+[2024.02.23-06.42.27:219][718]LogWorld: Bringing up level for play took: 0.018698
+[2024.02.23-06.42.27:223][718]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2024.02.23-06.42.27:228][718]PIE: Server logged in
+[2024.02.23-06.42.27:229][718]PIE: Play in editor total start time 0.215 seconds.
+[2024.02.23-06.42.27:274][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:275][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:275][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:276][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:276][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:277][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:277][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:277][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:278][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:278][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:279][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:279][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:280][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:280][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:281][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:282][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:282][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.27:283][718]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.42.29:910][948]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.42.29:910][948]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.42.33:420][324]LogViewport: Scene viewport resized to 1670x765, mode Windowed.
+[2024.02.23-06.42.33:432][325]LogViewport: Scene viewport resized to 1670x773, mode Windowed.
+[2024.02.23-06.42.33:461][326]LogViewport: Scene viewport resized to 1670x792, mode Windowed.
+[2024.02.23-06.42.33:480][326]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 1710
+[2024.02.23-06.42.33:481][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.33:499][327]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.23-06.42.33:500][327]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.23-06.42.33:501][327]LogViewport: Scene viewport resized to 1670x819, mode Windowed.
+[2024.02.23-06.42.33:508][327]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.23-06.42.33:513][327]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.23-06.42.33:526][328]LogViewport: Scene viewport resized to 1670x831, mode Windowed.
+[2024.02.23-06.42.33:544][329]LogViewport: Scene viewport resized to 1670x842, mode Windowed.
+[2024.02.23-06.42.33:569][330]LogViewport: Scene viewport resized to 1670x863, mode Windowed.
+[2024.02.23-06.42.33:593][331]LogViewport: Scene viewport resized to 1670x868, mode Windowed.
+[2024.02.23-06.42.33:619][332]LogViewport: Scene viewport resized to 1670x875, mode Windowed.
+[2024.02.23-06.42.33:642][333]LogViewport: Scene viewport resized to 1670x882, mode Windowed.
+[2024.02.23-06.42.33:667][334]LogViewport: Scene viewport resized to 1670x889, mode Windowed.
+[2024.02.23-06.42.33:692][335]LogViewport: Scene viewport resized to 1670x895, mode Windowed.
+[2024.02.23-06.42.33:716][336]LogViewport: Scene viewport resized to 1670x898, mode Windowed.
+[2024.02.23-06.42.33:738][337]LogViewport: Scene viewport resized to 1670x899, mode Windowed.
+[2024.02.23-06.42.33:760][338]LogViewport: Scene viewport resized to 1670x898, mode Windowed.
+[2024.02.23-06.42.33:895][353]LogViewport: Scene viewport resized to 1670x888, mode Windowed.
+[2024.02.23-06.42.33:905][354]LogViewport: Scene viewport resized to 1670x886, mode Windowed.
+[2024.02.23-06.42.33:932][355]LogViewport: Scene viewport resized to 1670x876, mode Windowed.
+[2024.02.23-06.42.33:950][356]LogViewport: Scene viewport resized to 1670x872, mode Windowed.
+[2024.02.23-06.42.33:970][357]LogViewport: Scene viewport resized to 1670x869, mode Windowed.
+[2024.02.23-06.42.33:990][358]LogViewport: Scene viewport resized to 1670x868, mode Windowed.
+[2024.02.23-06.42.34:010][359]LogViewport: Scene viewport resized to 1670x865, mode Windowed.
+[2024.02.23-06.42.34:036][361]LogViewport: Scene viewport resized to 1670x863, mode Windowed.
+[2024.02.23-06.42.34:049][362]LogViewport: Scene viewport resized to 1670x859, mode Windowed.
+[2024.02.23-06.42.34:070][363]LogViewport: Scene viewport resized to 1670x856, mode Windowed.
+[2024.02.23-06.42.34:088][364]LogViewport: Scene viewport resized to 1670x854, mode Windowed.
+[2024.02.23-06.42.34:107][365]LogViewport: Scene viewport resized to 1670x853, mode Windowed.
+[2024.02.23-06.42.34:127][366]LogViewport: Scene viewport resized to 1670x852, mode Windowed.
+[2024.02.23-06.42.34:145][367]LogViewport: Scene viewport resized to 1670x851, mode Windowed.
+[2024.02.23-06.42.34:162][368]LogViewport: Scene viewport resized to 1670x850, mode Windowed.
+[2024.02.23-06.42.34:190][370]LogViewport: Scene viewport resized to 1670x848, mode Windowed.
+[2024.02.23-06.42.34:205][371]LogViewport: Scene viewport resized to 1670x845, mode Windowed.
+[2024.02.23-06.42.34:225][372]LogViewport: Scene viewport resized to 1670x834, mode Windowed.
+[2024.02.23-06.42.35:641][496]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.23-06.42.38:595][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.42.38:595][731]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.42.38:595][731]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.42.38:597][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.38:607][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.42.38:614][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.38:648][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.42.38:649][731]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.02.23-06.42.38:649][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.02.23-06.42.38:651][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.02.23-06.42.38:657][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.42.38:667][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.23-06.42.38:712][732]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2024.02.23-06.42.43:562][267]BlueprintLog: New page: Compile RestartWidget
+[2024.02.23-06.42.43:614][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.23-06.42.43:660][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.42.43:727][267]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget
+[2024.02.23-06.42.43:728][267]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/RestartWidget2CA5FEA94B8518806624ED9E4D8ED407.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.uasset'
+[2024.02.23-06.42.43:737][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.53 sec)
+[2024.02.23-06.42.43:753][267]AssetCheck: New page: Asset Save: RestartWidget
+[2024.02.23-06.42.43:753][267]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/AkhilBlueprints/UI/RestartHUD/RestartWidget.RestartWidget
+[2024.02.23-06.42.44:399][330]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.23-06.42.44:410][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-06.42.44:410][330]PIE: New page: PIE session: AkhilLevel (Feb 22, 2024, 6:42:44 PM)
+[2024.02.23-06.42.44:410][330]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.42.44:460][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049844s)
+[2024.02.23-06.42.44:460][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.049890s)
+[2024.02.23-06.42.44:460][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.42.44:460][330]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.42.44:461][330]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.42.44:461][330]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2024.02.23-06.42.44:492][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.23-06.42.44:495][330]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.02.23-06.42.44:495][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-06.42.44:495][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-06.42.44:496][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-06.42.44:496][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-06.42.44:496][330]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-06.42.44:496][330]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.23-06.42.44:496][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-06.42.44:496][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-06.42.44:496][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-06.42.44:496][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-06.42.44:496][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-06.42.44:499][330]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-06.42.44:589][330]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.02.23-06.42.44:589][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-06.42.44:589][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-06.42.44:589][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-06.42.44:590][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.02.23-06.42.44:590][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.02.23-06.42.44:592][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.02.23-06.42.44:592][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.02.23-06.42.44:592][330]LogInit: FAudioDevice initialized with ID 45.
+[2024.02.23-06.42.44:592][330]LogAudio: Display: Audio Device (ID: 45) registered with world 'AkhilLevel'.
+[2024.02.23-06.42.44:592][330]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.02.23-06.42.44:620][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.42.44:621][330]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.42.44:640][330]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.42.44:640][330]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.42.44
+[2024.02.23-06.42.44:641][330]LogWorld: Bringing up level for play took: 0.020410
+[2024.02.23-06.42.44:645][330]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2024.02.23-06.42.44:653][330]PIE: Server logged in
+[2024.02.23-06.42.44:655][330]PIE: Play in editor total start time 0.245 seconds.
+[2024.02.23-06.42.44:668][330]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.02.23-06.42.50:522][640]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.42.50:522][640]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.23-06.42.55:205][992]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.23-06.42.55:205][992]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.23-06.42.55:207][992]LogNet: Browse: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-06.42.55:207][992]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-06.42.55:207][992]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.42.55:207][992]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2024.02.23-06.42.55:208][992]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.42.55:210][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.42.55:263][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.42.55:273][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.23-06.42.55:277][992]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.42.55:326][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049065s)
+[2024.02.23-06.42.55:326][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel to /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel (0.049122s)
+[2024.02.23-06.42.55:326][992]LogAudio: Display: Audio Device (ID: 45) registered with world 'AkhilLevel'.
+[2024.02.23-06.42.55:326][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-06.42.55:327][992]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.23-06.42.55:327][992]LogAIModule: Creating AISystem for world AkhilLevel
+[2024.02.23-06.42.55:327][992]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.02.23-06.42.55:327][992]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.23-06.42.55:338][992]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel:PersistentLevel.BP_Ricky_C_1.CharacterMesh0'
+[2024.02.23-06.42.55:342][992]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel.AkhilLevel up for play (max tick rate 0) at 2024.02.23-00.42.55
+[2024.02.23-06.42.55:343][992]LogWorld: Bringing up level for play took: 0.015106
+[2024.02.23-06.42.55:348][992]LogLoad: Took 0.142031 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel)
+[2024.02.23-06.43.03:712][505]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.23-06.43.03:712][505]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.23-06.43.07:244][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-06.43.07:244][768]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_AkhilLevel
+[2024.02.23-06.43.07:245][768]LogSlate: Window 'LevelProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2024.02.23-06.43.07:250][768]LogWorld: UWorld::CleanupWorld for AkhilLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-06.43.07:252][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.43.07:260][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-06.43.07:267][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-06.43.07:303][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-06.43.07:303][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.02.23-06.43.07:303][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.02.23-06.43.07:305][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.02.23-06.43.07:320][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.02.23-06.43.07:374][769]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2024.02.23-06.43.40:946][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:946][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:946][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:947][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:947][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:948][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:948][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:948][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:949][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:949][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:950][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:950][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:951][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:951][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:952][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:952][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:952][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.43.40:953][561]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.23-06.44.00:496][ 45]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/LearningKit_Games/music/zapsplat_horror_voice_ghostly_says_i_can_see_you_001_12153.zapsplat_horror_voice_ghostly_says_i_can_see_you_001_12153
+[2024.02.23-06.44.04:828][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.44.04:863][541]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/music/zapsplat_horror_voice_ghostly_says_i_can_see_you_001_12153
+[2024.02.23-06.44.04:864][541]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/zapsplat_horror_voice_ghostly_sa0EFDDB674A6F6B4E7F25F880673E5103.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/music/zapsplat_horror_voice_ghostly_says_i_can_see_you_001_12153.uasset'
+[2024.02.23-06.44.04:874][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 5.58 sec)
+[2024.02.23-06.44.04:882][541]AssetCheck: New page: Asset Save: zapsplat_horror_voice_ghostly_says_i_can_see_you_001_12153
+[2024.02.23-06.44.04:882][541]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/LearningKit_Games/music/zapsplat_horror_voice_ghostly_says_i_can_see_you_001_12153.zapsplat_horror_voice_ghostly_says_i_can_see_you_001_12153
+[2024.02.23-06.44.30:964][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.23-06.44.31:094][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Maps/AkhilLevel_Auto8
+[2024.02.23-06.44.31:095][486]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/AkhilLevel_Auto8332D1B9A4C547D0FADDCEB904E9DF7D8.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/Autosaves/Game/LearningKit_Games/Maps/AkhilLevel_Auto8.umap'
+[2024.02.23-06.44.31:101][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/AkhilLevel' took 0.169
+[2024.02.23-06.44.31:101][486]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.169
+[2024.02.23-06.52.12:054][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.23-06.52.12:060][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-06.52.12:125][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.23-06.52.12:252][ 68]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-06.52.12:253][ 68]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/AkhilLevel551F0C5442B00F07E0B4BBA7045F0929.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Maps/AkhilLevel.umap'
+[2024.02.23-06.52.12:264][ 68]LogFileHelpers: Saving map 'AkhilLevel' took 0.167
+[2024.02.23-06.52.12:268][ 68]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance_Inst_gold
+[2024.02.23-06.52.12:268][ 68]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/MI_Opaque_BaseInstance_Inst_goldCE65122E4046908B54704289C25B3813.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance_Inst_gold.uasset'
+[2024.02.23-06.52.12:278][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 5.80 sec)
+[2024.02.23-06.52.12:289][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.23-06.52.12:289][ 68]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel
+[2024.02.23-06.52.12:289][ 68]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/LearningKit_Games/Assets/_Shared/Materials/MI_Opaque_BaseInstance_Inst_gold.MI_Opaque_BaseInstance_Inst_gold
+[2024.02.23-06.55.10:975][864]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
