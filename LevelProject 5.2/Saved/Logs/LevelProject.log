@@ -3729,3 +3729,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.23-04.59.31:317][983]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/AkhilLevel_Auto1D09A68D6455B41167AFD939355B0C594.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/Autosaves/Game/LearningKit_Games/Maps/AkhilLevel_Auto1.umap'
 [2024.02.23-04.59.31:325][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/AkhilLevel' took 0.162
 [2024.02.23-04.59.31:325][983]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.162
+[2024.02.23-04.59.53:116][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.23-04.59.53:120][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-04.59.53:179][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.23-04.59.53:300][259]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/AkhilLevel
+[2024.02.23-04.59.53:300][259]LogSavePackage: Moving '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Saved/AkhilLevel190E5DBE4D8E0FDEB76CF289CF1D907B.tmp' to '../../../../../../Users/akhils7/Documents/GitHub/LevelDesign/LevelProject 5.2/Content/LearningKit_Games/Maps/AkhilLevel.umap'
+[2024.02.23-04.59.53:311][259]LogFileHelpers: Saving map 'AkhilLevel' took 0.159
+[2024.02.23-04.59.53:326][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 1.72 sec)
+[2024.02.23-04.59.53:336][259]AssetCheck: New page: Asset Save: AkhilLevel
+[2024.02.23-04.59.53:336][259]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/AkhilLevel.AkhilLevel
