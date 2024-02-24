@@ -2125,3 +2125,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.24-05.36.39:894][752]LogViewport: Scene viewport resized to 1954x917, mode Windowed.
 [2024.02.24-05.36.39:989][753]LogViewport: Scene viewport resized to 1954x946, mode Windowed.
 [2024.02.24-05.36.40:119][754]LogViewport: Scene viewport resized to 1954x947, mode Windowed.
+[2024.02.24-05.38.39:822][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
